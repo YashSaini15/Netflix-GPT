@@ -2,6 +2,9 @@
 
 - Create Vite App
 - Configure TailwindCSS
+- Header
+- Login Form
+- Sign up Form
 
 
 # Features
